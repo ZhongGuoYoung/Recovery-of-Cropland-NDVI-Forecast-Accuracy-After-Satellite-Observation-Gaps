@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code, the frozen weights, or the window index, please cite the accompanying article and this archive."
+type: software
+title: "ConvGRU NDVI Recovery: Code, Frozen Weights, Window Index and Result Tables"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+abstract: >-
+  Reproducibility archive for a study of how quickly cropland NDVI forecast
+  accuracy recovers after satellite observation gaps. It contains the model and
+  evaluation code, 36 frozen best checkpoints with SHA-256 inventory, the sealed
+  matched-window index (11,315 paired windows) and its three-gap long form
+  (33,945 rows), the audited Paper300 train/development manifests, and the
+  derived result tables behind the letter's figures and tables. Training and
+  replayed pixel arrays are not included; they are rebuilt from public inputs
+  with the scripts and manifests provided.
+keywords:
+  - NDVI
+  - ConvGRU
+  - gap recovery
+  - cropland
+  - reproducibility
+authors:
+  - family-names: Zhong
+    given-names: Guoyang
+    affiliation: "School of Remote Sensing and Geomatics Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China"
+  - family-names: Chang
+    given-names: Zhongyang
+    affiliation: "School of Remote Sensing and Geomatics Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China"
+  - family-names: Huang
+    given-names: Qisong
+    affiliation: "School of Remote Sensing and Geomatics Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China"
+  - family-names: Xue
+    given-names: Fengchang
+    affiliation: "School of Remote Sensing and Geomatics Engineering, Nanjing University of Information Science and Technology, Nanjing 210044, China"
+preferred-citation:
+  type: article
+  title: "Recovery of Cropland NDVI Forecast Accuracy After Satellite Observation Gaps"
+  authors:
+    - family-names: Zhong
+      given-names: Guoyang
+    - family-names: Chang
+      given-names: Zhongyang
+    - family-names: Huang
+      given-names: Qisong
+    - family-names: Xue
+      given-names: Fengchang
+  journal: "IEEE Geoscience and Remote Sensing Letters"
+  year: 2026
+  volume: 23

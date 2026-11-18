@@ -1,0 +1,16 @@
+# Release asset is distributed via GitHub Releases, not committed
+*.zip
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.zarr/
+
+# Local prepared data
+data/shards/
+artifacts/paper300/prepared/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
