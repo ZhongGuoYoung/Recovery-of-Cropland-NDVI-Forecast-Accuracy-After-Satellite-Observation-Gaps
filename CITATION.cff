@@ -5,6 +5,7 @@ title: "ConvGRU NDVI Recovery: Code, Frozen Weights, Window Index and Result Tab
 version: 1.0.0
 date-released: 2026-11-18
 license: MIT
+repository-code: "https://github.com/ZhongGuoYoung/Recovery-of-Cropland-NDVI-Forecast-Accuracy-After-Satellite-Observation-Gaps"
 abstract: >-
   Reproducibility archive for a study of how quickly cropland NDVI forecast
   accuracy recovers after satellite observation gaps. It contains the model and

@@ -8,7 +8,7 @@ and the no-Daymet sealed replay each carry their own plan and are post-unblindin
 supplementary analyses. All original experiment files are kept with their
 original bytes and relative paths.
 
-> **Download:** the full archive is attached to the [latest release](../../releases/latest) as `ConvGRU_NDVI_代码数据包.zip` (about 101 MB). This repository holds the documentation, license, citation metadata, and release checksum; the code, frozen weights, window index, and tables are inside the ZIP. Verify the downloaded ZIP against `SHA256SUMS.release`.
+> **Download:** the full archive is attached to the [latest release](../../releases/latest) as `ConvGRU_NDVI_reproducibility_archive.zip` (about 101 MB). This repository holds the documentation, license, citation metadata, and release checksum; the code, frozen weights, window index, and tables are inside the ZIP. Verify the downloaded ZIP against `SHA256SUMS.release`.
 
 ## Repository layout
 
@@ -19,7 +19,7 @@ original bytes and relative paths.
 | `CITATION.cff` | Citation metadata for the archive and the letter |
 | `CHANGELOG.md` | Archive v2 changes and open items |
 | `SHA256SUMS.release` | SHA-256 of the release ZIP |
-| `Releases` | The full archive (`ConvGRU_NDVI_代码数据包.zip`) |
+| `Releases` | The full archive (`ConvGRU_NDVI_reproducibility_archive.zip`) |
 
 ## What is inside
 

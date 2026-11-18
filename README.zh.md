@@ -1,4 +1,4 @@
-> **下载：** 完整归档在 [最新 release](../../releases/latest) 中，文件名 `ConvGRU_NDVI_代码数据包.zip`（约 101 MB）。本仓库只放说明、许可证、引用信息和校验值；代码、权重、窗口索引和结果表都在 ZIP 内。下载后可用 `SHA256SUMS.release` 校验。
+> **下载：** 完整归档在 [最新 release](../../releases/latest) 中，文件名 `ConvGRU_NDVI_reproducibility_archive.zip`（约 101 MB）。本仓库只放说明、许可证、引用信息和校验值；代码、权重、窗口索引和结果表都在 ZIP 内。下载后可用 `SHA256SUMS.release` 校验。
 
 # ConvGRU NDVI 缺测恢复｜代码与实验数据索引
 
